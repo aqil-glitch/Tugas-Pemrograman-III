@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Project_notepad"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Warna utama aplikasi -->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryVariant">#000000</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Warna sekunder (bebas, ga kepake sekarang) -->
+        <item name="colorSecondary">#333333</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+    </style>
+
+</resources>
