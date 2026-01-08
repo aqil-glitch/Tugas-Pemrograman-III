@@ -11,3 +11,5 @@ Project Notepad 2 adalah aplikasi manajemen catatan berbasis Android yang dikemb
 Aplikasi ini dirancang untuk membantu pengguna mencatat, menyimpan, dan mengelola informasi secara efisien dengan sistem penyimpanan data lokal yang aman dan terstruktur.
 Aplikasi ini memanfaatkan Room Persistence Library sebagai abstraksi database SQLite, sehingga data catatan tetap tersimpan meskipun aplikasi ditutup.
 Untuk menjaga performa dan responsivitas aplikasi, proses pengolahan data seperti pencarian dan pengambilan catatan dijalankan secara asinkron menggunakan Kotlin Coroutines.
+
+Link : https://drive.google.com/drive/folders/1gSUOWc4SH1kWNnRfmOq1XKpi0Txn2i_j
